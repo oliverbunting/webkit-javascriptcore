@@ -1,7 +1,7 @@
 
 {-# LANGUAGE EmptyDataDecls, ForeignFunctionInterface #-}
 
-module Graphics.UI.Gtk.WebKit.JavaScriptCore.WebFrame {-# DEPRECATED "Removed from javascript core. Look at JSaddle?" #-} wherewhere
+module Graphics.UI.Gtk.WebKit.JavaScriptCore.WebFrame {-# DEPRECATED "Removed from javascript core. Look at JSaddle?" #-} where
 
 #if __GLASGOW_HASKELL__ >= 704
 import Foreign.ForeignPtr.Unsafe
